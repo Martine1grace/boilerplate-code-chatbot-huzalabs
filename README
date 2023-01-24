@@ -15,10 +15,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">A RURA CHATBOT</h3>
+  <h3 align="center">RSSB CHATBOT</h3>
 
   <p align="center">
-    A conversation chabot to server information related to RURA!
+    A conversation chabot to server information related to RSSB!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -100,11 +100,11 @@ Use the following commands to install and run the chatbot application.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/agent87/myChatbotApp.git
+   git clone  https://github.com/Martine1grace/chatbot-huzalabs.git
    ```
 2. Go into the directory
    ```sh
-   cd myChatbotApp
+   cd chatbot-huzalabs
    ```   
   
 3. Install pip packages 
@@ -146,7 +146,7 @@ After running the gunicorn command open your browser at http://127.0.0.1/5000 to
 <!-- CONTACT -->
 ## Contact
 
-Arnaud Kayonga - [@Linkedin](https://www.linkedin.com/in/arnaud-kayonga-5910a813a) - arnauldkayonga1@gmail.com
+Martine Grace- [@Linkedin](https://www.linkedin.com/in/martine-grace/) - martinegrace16@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
